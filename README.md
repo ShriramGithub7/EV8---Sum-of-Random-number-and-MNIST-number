@@ -1,1 +1,1 @@
-# EV8---Sum-of-Random-number-and-MNIST-number
+# EV8: Sum-of-Random-number-and-MNIST-number
