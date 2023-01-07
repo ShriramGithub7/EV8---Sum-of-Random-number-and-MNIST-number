@@ -32,14 +32,25 @@ cross_entropy loss function was used to calculate the loss.
 **TRAINING LOGS:**
 
 epoch: 0 total_correct: 53918 loss: 5875.4244730472565 accuracy: 89.86%
+
 epoch: 1 total_correct: 57787 loss: 5619.52460193634 accuracy: 96.31%
+
 epoch: 2 total_correct: 58223 loss: 5590.693505764008 accuracy: 97.04%
+
 epoch: 3 total_correct: 58447 loss: 5575.756269693375 accuracy: 97.41%
+
 epoch: 4 total_correct: 58533 loss: 5570.622574925423 accuracy: 97.56%
+
 epoch: 5 total_correct: 58572 loss: 5567.908988595009 accuracy: 97.62%
+
 epoch: 6 total_correct: 58648 loss: 5563.639644503593 accuracy: 97.75%
+
 epoch: 7 total_correct: 58656 loss: 5562.603075265884 accuracy: 97.76%
+
 epoch: 8 total_correct: 58826 loss: 5552.839111566544 accuracy: 98.04%
+
 epoch: 9 total_correct: 58780 loss: 5555.179874300957 accuracy: 97.97%
+
 epoch: 10 total_correct: 58880 loss: 5549.132606506348 accuracy: 98.13%
+
 epoch: 11 total_correct: 58729 loss: 5558.45803809166 accuracy: 97.88%
