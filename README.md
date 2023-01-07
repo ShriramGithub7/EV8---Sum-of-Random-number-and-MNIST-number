@@ -16,10 +16,10 @@ This repository contains the code of model that will take 2 inputs:
 
 **STRATEGY:**
   
--Random number is generated using randint() function of random module in python3.
+- Random number is generated using randint() function of random module in python3.
 
--In the training network, few convolution layers are used for processing mnist image. Also few fully connected layers are used afte conv layers
-Similarly, for random number, a fully connected layer is used in training.
+- In the training network, few convolution layers are used for processing mnist image. Also few fully connected layers are used afte conv layers
+  Similarly, for random number, a fully connected layer is used in training.
 
 - Once both in inputs are passed through fully connected layers, their tensors are added together to get the sum.
 - cross_entropy loss function was used to calculate the loss.
