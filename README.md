@@ -6,7 +6,7 @@ This repository contains the code of model that will take 2 inputs:
   - random number between 0 to 9. 
  
  **OUTPUT:**
- Model is expected to generate 2 outputs:
+  Model is expected to generate 2 outputs:
   - number present in mnist image
   - sum of this mnist number and random number
 
